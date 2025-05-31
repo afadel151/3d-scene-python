@@ -1,4 +1,3 @@
-```markdown
 # 🧊 3D Rendering Project in Python (PyOpenGL)
 
 This project is a simple 3D rendering engine built using Python and **PyOpenGL**. It sets up a window using Pygame and renders basic 3D objects with lighting and camera controls using OpenGL.
