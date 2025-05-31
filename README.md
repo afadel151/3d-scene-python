@@ -8,7 +8,7 @@ This project is a simple 3D rendering engine built using Python and **PyOpenGL**
 
 ```
 
-3d\_rendering\_project/
+python-3D-rendering/
 ├── main.py                   # Entry point
 ├── config/                   # Configuration files (camera, renderer)
 ├── core/                     # Rendering logic and scene management
