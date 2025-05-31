@@ -86,9 +86,7 @@ This project is open-source and free for academic and personal use.
 ---
 
 ## ✍️ Author
+[GitHub Profile](https://github.com/afadel151)
+[Website](https://akramfadel.netlify.app)
 
-**Your Name**
-[GitHub Profile](https://github.com/your-username)
 
-```
-```
